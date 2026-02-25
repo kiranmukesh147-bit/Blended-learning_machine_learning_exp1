@@ -109,7 +109,8 @@ RegisterNumber: 25006640
 
 ## Output:
 <img width="1866" height="1079" alt="image" src="https://github.com/user-attachments/assets/03e34c4c-1e5c-4e62-8fd6-bdee6cac05ee" />
-<img width="1913" height="1069" alt="image" src="https://github.com/user-attachments/assets/f9de1d6c-e83b-413b-8234-c3d6f15d2c12" />
+<img width="1912" height="926" alt="wx1" src="https://github.com/user-attachments/assets/f3616ca1-61e1-4d5b-b78e-faf9572d5194" />
+
 <img width="1906" height="1076" alt="image" src="https://github.com/user-attachments/assets/103aaf54-fc96-44e3-94ff-b480e5d10455" />
 <img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/afbe9578-85b9-4fb0-a616-bf36097cfbcf" />
 <img width="1917" height="1061" alt="image" src="https://github.com/user-attachments/assets/c391c93c-c0e6-421f-a75d-4355fae39d48" />
