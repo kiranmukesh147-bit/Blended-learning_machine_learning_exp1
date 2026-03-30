@@ -56,8 +56,8 @@ y_pred=model.predict(x_test_scaled)
 
 #model coefficients and metrics
 #print("="*50)
-print('Name: SUNDARESWARAN K')
-print('Reg.No: 2122209050449')
+print('Name: Kiran Mukesh')
+print('Reg.No: 2122205040188')
 print('MODEL COEFFICIENTS: ')
 for feature, coef in zip(x.columns,model.coef_):
     print(f"{feature:>12}: {coef:>10.2f}")
