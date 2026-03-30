@@ -105,7 +105,7 @@ plt.show()
 ```
 
 ## Output:
-<img width="1536" height="1024" alt="x" src="https://github.com/user-attachments/assets/0ff690c8-00cb-40dd-a5a4-d2997b8ed7ff" />
+<img width="218" height="106" alt="x" src="https://github.com/user-attachments/assets/0ff690c8-00cb-40dd-a5a4-d2997b8ed7ff" />
 <img width="218" height="106" alt="Screenshot 2026-02-04 090530" src="https://github.com/user-attachments/assets/91952214-c940-4f19-aa8d-2809f42798cd" />
 <img width="1012" height="460" alt="Screenshot 2026-02-04 090541" src="https://github.com/user-attachments/assets/ad04025a-b8ca-49f7-a7ce-6994e30f6392" />
 <img width="898" height="393" alt="Screenshot 2026-02-04 090558" src="https://github.com/user-attachments/assets/f8555cd7-5ddf-44d7-a559-6ee9f21b912b" />
